@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🤖 Xiaohongshu AI Platform Team
+# 🤖 Xiaohongshu AI Infra Team
 
 **Building Leading & Developer-Friendly AI Large Model Full-Stack Infrastructure**
 
@@ -14,7 +14,7 @@
 
 ## 🏠 Who We Are
 
-We are the **AI Platform Team at Xiaohongshu (Rednote)**, dedicated to building cutting-edge, developer-friendly **AI Large Model Full-Stack Infrastructure**.
+We are the **AI Infra Team at Xiaohongshu (Rednote)**, dedicated to building cutting-edge, developer-friendly **AI Large Model Full-Stack Infrastructure**.
 
 Our team has deep expertise across the complete large model lifecycle — from **data** to **training**, **compression**, **inference**, and **evaluation** — forming a robust end-to-end technical loop. We have accumulated strong technical advantages in:
 
@@ -69,6 +69,6 @@ Feel free to explore our repositories, open issues, or start a discussion. Let's
 
 **⭐ Star our projects if you find them helpful!**
 
-Made with ❤️ by the Xiaohongshu AI Platform Team
+Made with ❤️ by the Xiaohongshu AI Infra Team
 
 </div>
