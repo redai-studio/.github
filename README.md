@@ -25,7 +25,7 @@ Our team has deep expertise across the complete large model lifecycle — from *
 | ⚡ **Inference Optimization** | High-throughput, low-latency serving |
 | 🚀 **Deployment Efficiency** | Streamlined production-grade deployment |
 
-We are active contributors to the **AI Infra open-source community**, participating in the development of various open-source frameworks. We have open-sourced the **[Relax RL](https://github.com/redai-infra)** training framework — try it out and let's build together!
+We are active contributors to the **AI Infra open-source community**, participating in the development of various open-source frameworks. We have open-sourced the **[Relax RL](https://github.com/redai-infra/relax-rl)** training framework — try it out and let's build together!
 
 ---
 
@@ -48,7 +48,7 @@ Our goal is to empower everyone to unlock the full potential of AI — at **lowe
 
 | Project | Description | Status |
 |---|---|---|
-| 🦾 **Relax RL** | A flexible and high-performance Reinforcement Learning training framework | [![Active](https://img.shields.io/badge/status-active-success?style=flat-square)](https://github.com/redai-infra) |
+| 🦾 **Relax RL** | A flexible and high-performance Reinforcement Learning training framework | [![Active](https://img.shields.io/badge/status-active-success?style=flat-square)](https://github.com/redai-infra/relax-rl) |
 
 ---
 
