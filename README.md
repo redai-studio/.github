@@ -14,7 +14,7 @@
 
 ## 🏠 Who We Are
 
-We are the **AI Platform Team at Xiaohongshu (Little Red Book)**, dedicated to building cutting-edge, developer-friendly **AI Large Model Full-Stack Infrastructure**.
+We are the **AI Platform Team at Xiaohongshu (Rednote)**, dedicated to building cutting-edge, developer-friendly **AI Large Model Full-Stack Infrastructure**.
 
 Our team has deep expertise across the complete large model lifecycle — from **data** to **training**, **compression**, **inference**, and **evaluation** — forming a robust end-to-end technical loop. We have accumulated strong technical advantages in:
 
