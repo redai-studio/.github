@@ -1,67 +1,45 @@
 <div align="center">
 
-# 🤖 Xiaohongshu AI Platform Team
+# 🤖 RAI Studio · Xiaohongshu AI Infrastructure
 
 **Building Leading & Developer-Friendly AI Large Model Full-Stack Infrastructure**
 
-[![Open Source](https://img.shields.io/badge/Open%20Source-❤-red?style=flat-square)](https://github.com/redai-infra)
-[![Community](https://img.shields.io/badge/Community-Welcome-brightgreen?style=flat-square)](https://github.com/redai-infra)
-[![AI Infra](https://img.shields.io/badge/AI-Infra-blue?style=flat-square)](https://github.com/redai-infra)
+[![Open Source](https://img.shields.io/badge/Open%20Source-❤-red?style=flat-square)](https://github.com/redai-studio)
+[![Community](https://img.shields.io/badge/Community-Welcome-brightgreen?style=flat-square)](https://github.com/redai-studio)
+[![AI Infra](https://img.shields.io/badge/AI-Infra-blue?style=flat-square)](https://github.com/redai-studio)
 
 </div>
 
----
-
 ## 🏠 Who We Are
 
-We are the **AI Platform Team at Xiaohongshu (Rednote)**, dedicated to building cutting-edge, developer-friendly **AI Large Model Full-Stack Infrastructure**.
+We are the **Large Model Infrastructure Team at Xiaohongshu (Rednote)**, responsible for the company's end-to-end infrastructure for large models.
 
-Our team has deep expertise across the complete large model lifecycle — from **data** to **training**, **compression**, **inference**, and **evaluation** — forming a robust end-to-end technical loop. We have accumulated strong technical advantages in:
-
-| Area | Focus |
-|---|---|
-| 🚄 **Training Acceleration** | Distributed training optimization & efficiency |
-| ✂️ **Model Compression** | Quantization, pruning, distillation |
-| ⚡ **Inference Optimization** | High-throughput, low-latency serving |
-| 🚀 **Deployment Efficiency** | Streamlined production-grade deployment |
-
-We are active contributors to the **AI Infra open-source community**, participating in the development of various open-source frameworks. We have open-sourced the **[Relax RL](https://github.com/redai-infra/relax-rl)** training framework — try it out and let's build together!
-
----
+We build across three layers — **compute, frameworks, and platforms** — to support model training, compression, deployment, online and offline serving, and agent development and publishing. Our work helps teams turn model capabilities into production applications with greater efficiency, lower cost, reliable operation, and repeatable delivery at scale.
 
 ## 🚀 Our Mission
 
-> *Accelerating the democratization of AI — making powerful models accessible, lightweight, and developer-friendly for everyone.*
+> Build Xiaohongshu's foundation for productivity in the AI era — making AI as reliable, efficient, and accessible as water and electricity for every business scenario.
 
-We are committed to:
+We believe better models need infrastructure that consistently turns their capabilities into real-world value. We focus on:
 
-- 🧮 **Algorithm Democratization** — Making state-of-the-art AI model techniques accessible to all developers
-- 🪶 **Lightweight Deployment** — Enabling efficient model deployment with minimal resource overhead
-- 🌍 **Open Development** — Fostering a collaborative, open ecosystem for AI infrastructure
-- 💡 **Real-World Impact** — Helping teams across every business domain achieve production AI success
-
-Our goal is to empower everyone to unlock the full potential of AI — at **lower cost** and with **greater efficiency**.
-
----
-
-## 📦 Open Source Projects
-
-| Project | Description | Status |
-|---|---|---|
-| 🦾 **Relax RL** | A flexible and high-performance Reinforcement Learning training framework | [![Active](https://img.shields.io/badge/status-active-success?style=flat-square)](https://github.com/redai-infra/relax-rl) |
-
----
+- 💡 **Faster experimentation and delivery** — Help teams validate ideas, produce models, and deploy AI applications through a unified toolchain.
+- 🪶 **Efficient compute and execution** — Improve resource utilization through unified GPU scheduling, heterogeneous hardware support, and training and inference optimization.
+- 🧮 **Reliable services at scale** — Build dependable model services and observable agent applications that can grow with demand.
+- 🌍 **Open collaboration and research** — Share reusable systems and research with the community, and advance AI infrastructure together.
 
 ## 🤝 Get Involved
 
-We warmly welcome collaboration from the open-source community! Whether you are interested in:
+We welcome developers and researchers working on efficient, reliable AI infrastructure.
 
-- 🐛 Reporting issues or bugs
-- 💬 Sharing ideas and feedback
-- 🔧 Contributing code or documentation
-- 🌟 Starring and spreading the word
+- 🚀 **Try a project:** Start with its README for setup, examples, and supported configurations.
+- 🐛 **Report a problem:** Open an issue in the relevant repository with reproduction steps.
+- 💬 **Share an idea:** Open an issue with a concrete proposal or feedback.
+- 🔧 **Contribute:** Submit code, documentation, examples, or reproducible benchmarks, following the repository's contribution guidance where available.
+- 📚 **Build on our research:** Read the papers linked from our organization profile and use each project's citation instructions when referencing the work.
 
-Feel free to explore our repositories, open issues, or start a discussion. Let's build the future of AI infrastructure together!
+- 🌟 **Spread the word:** Star and share projects you find useful.
+
+Browse [all RAI Studio repositories](https://github.com/orgs/redai-studio/repositories) to find a project that matches your interests.
 
 ---
 
@@ -69,6 +47,6 @@ Feel free to explore our repositories, open issues, or start a discussion. Let's
 
 **⭐ Star our projects if you find them helpful!**
 
-Made with ❤️ by the Xiaohongshu AI Platform Team
+Made with ❤️ by the Xiaohongshu AI Infrastructure Team
 
 </div>
