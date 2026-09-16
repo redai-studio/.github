@@ -47,11 +47,11 @@ This matrix describes our broader infrastructure portfolio. See our [organizatio
 
 We welcome developers and researchers working on efficient, reliable AI infrastructure.
 
-- **Try a project:** Start with its README for setup, examples, and supported configurations.
+- 🚀 **Try a project:** Start with its README for setup, examples, and supported configurations.
 - 🐛 **Report a problem:** Open an issue in the relevant repository with reproduction steps.
 - 💬 **Share an idea:** Open an issue with a concrete proposal or feedback.
 - 🔧 **Contribute:** Submit code, documentation, examples, or reproducible benchmarks, following the repository's contribution guidance where available.
-- **Build on our research:** Read the papers linked from our organization profile and use each project's citation instructions when referencing the work.
+- 📚 **Build on our research:** Read the papers linked from our organization profile and use each project's citation instructions when referencing the work.
 
 - 🌟 **Spread the word:** Star and share projects you find useful.
 
