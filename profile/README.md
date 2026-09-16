@@ -12,11 +12,9 @@
 
 ## 🏠 Who We Are
 
-We are the **Large Model Infrastructure Team at Xiaohongshu (Rednote)**, responsible for the company's end-to-end infrastructure for large models.
+We are the **AI Infrastructure Team at Xiaohongshu (Rednote)**, responsible for the company's end-to-end infrastructure for large models.
 
 We build across three layers — **compute, frameworks, and platforms** — to support model training, compression, deployment, online and offline serving, and agent development and publishing. Our work helps teams turn model capabilities into production applications with greater efficiency, lower cost, reliable operation, and repeatable delivery at scale.
-
-Our infrastructure supports AI applications across community experiences, commercial services, international operations, content moderation, and enterprise intelligence.
 
 ## 🚀 Our Mission
 
@@ -35,13 +33,12 @@ RAI Studio connects the compute foundation, model frameworks, and developer plat
 
 | Layer | Products & Capabilities | What It Enables |
 |---|---|---|
-| **Agent applications** | **ALL-IN** platform and SDK: agent orchestration, workflows and tools, knowledge and memory, application publishing, and observability | Build, publish, and operate AI applications |
+| **Agent applications** | **AgentSphere** platform: agent orchestration, workflows and tools, knowledge and memory, application publishing, observability and evaluation| Build, publish, and operate agent applications |
 | **Model services** | **Red Token Hub**: online and offline model services, model onboarding, routing and scheduling, KV cache reuse, high availability, and elastic scaling | Reliable and efficient Model-as-a-Service (MaaS) |
 | **Model production** | **QuickSilver**: data management, training, compression, deployment, and evaluation | A unified toolchain across the model lifecycle |
-| **Frameworks & runtimes** | 🚄 **RedAccel**, 🦾 **Relax**, ✂️ **RedSlim**, ⚡ **rLLM**, and 🚀 **DirectLLM**: our framework portfolio spanning model training, compression, and inference | Accelerate model production and execution across heterogeneous hardware |
+| **Frameworks & runtimes** | 🚄 **Relax**, ✂️ **RedSlim**, 🚀  **rLLM**: our framework portfolio spanning model training, compression, and inference | Accelerate model production and execution across heterogeneous hardware |
 | **Compute infrastructure** | Unified management and scheduling across accelerator types and regions, elastic resource allocation, and cluster efficiency optimization | Scalable compute capacity and better resource utilization |
 
-This matrix describes our broader infrastructure portfolio. Public repositories and research are listed below; see each repository for available code, documentation, and licensing.
 
 ## 📦 Research & Open Source
 
@@ -49,7 +46,7 @@ Our open-source work spans reinforcement learning, model compression, efficient 
 
 | Project | Focus | Links |
 |---|---|---|
-| 🦾 **Relax** | Asynchronous reinforcement learning for omni-modal post-training at scale | [Code](https://github.com/redai-studio/Relax) · [Paper](https://arxiv.org/abs/2604.11554) |
+| **Relax** | Asynchronous reinforcement learning for omni-modal post-training at scale | [Code](https://github.com/redai-studio/Relax) · [Paper](https://arxiv.org/abs/2604.11554) |
 | **HiSVD** | Hierarchical low-rank model compression guided by information capacity and spectral structure | [Code](https://github.com/redai-studio/HiSVD) · [Paper](https://openreview.net/forum?id=oR0gL0HGnf) |
 | **PIPO — Pair-In, Pair-Out** | Latent multi-token prediction for efficient large language models | [Code](https://github.com/redai-studio/PIPO) · [Paper](https://arxiv.org/abs/2605.27255) |
 | **Hint Tuning** | Improving reasoning with less training data | [Code](https://github.com/redai-studio/hint-tuning) · [Paper](https://arxiv.org/abs/2605.08665) |
@@ -76,6 +73,6 @@ Browse [all RAI Studio repositories](https://github.com/orgs/redai-studio/reposi
 
 **⭐ Star our projects if you find them helpful!**
 
-Made with ❤️ by the Xiaohongshu Large Model Infrastructure Team
+Made with ❤️ by the Xiaohongshu AI Infrastructure Team
 
 </div>
